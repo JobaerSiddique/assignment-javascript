@@ -64,7 +64,7 @@ function megaFriends(friends) {
         
     }
     return large;
-}  gg
+}  
 
 
 
